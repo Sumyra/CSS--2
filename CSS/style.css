@@ -1,0 +1,207 @@
+   h1{
+    color:#200122;
+    text-align: center;
+font-size: 45px;
+font-family: 'Amaranth', sans-serif;
+text-decoration: underline;
+   }
+   .card{
+        background-color: red;
+        color:whitesmoke;
+        width:350px;
+ 
+        padding: 20px;
+        margin: 50px 15px;
+        display: inline-block;
+background-image: url(../Img/xy.webp);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-blend-mode: multiply;
+background-color:rgba(118, 3, 105, 0.061) ;
+color:white;
+border-radius:45px 45px  45px 0 ;
+
+        
+    }
+    .card h2{
+font-size:30px ;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(28, 234, 227);); 
+text-decoration: underline;
+  }
+  .card p{
+  font-size: 16px;
+  line-height: 24px;
+    font-family: arial;
+    text-align: justify;
+  }
+  .card a{
+    background-color:white; 
+    color:rgb(4, 4, 85); 
+    
+    text-decoration: none;
+    padding:15px 10px ;
+    border-radius:5px ;
+    font-size: 15px;
+transition: 500ms;
+    display: inline-block;
+  }
+  .card a:hover{
+    background-color:rgb(212, 35, 35); 
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;px 35px ;
+    border-radius:5px ;
+    font-size: 15px;
+
+    display: inline-block;
+  }
+  .card2{
+    background-image: url(../Img/xy2.webp);
+  }
+  .card3{
+    background-image: url(../Img/xy3[2].jpg);
+    margin:50px 0 0 auto;
+  }
+  .card3 h2{
+    color:greenyellow;
+  }
+  .card4 h2{
+    color:#989898;
+  }
+  .card5 h2{
+    color:orangered ;
+  }
+  .card5 p{
+    color: black;
+  }
+  .card4{
+    background-image: url(../Img/xy4.jpg);
+    
+  }
+  .card5{
+    background-image: url(../Img/xy5.jpg);
+  }
+  .card6 h2{
+    color:goldenrod ;
+  }
+  .card6{
+    background-image: url(../Img/xy6.jpg);
+  }
+  .card7{
+    background-image: url(../Img/xy7.jpg);
+  }
+  .card8 h2{
+    color:rgb(77, 152, 168)
+  }
+  .card8{
+    background-image: url(../Img/xy8.jpg);
+  }
+  .card9 h2{
+    color:#00223E
+  }
+  .card9{
+    background: #FFA17F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #00223E, #FFA17F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #00223E, #FFA17F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.card10{background: #73C8A9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #373B44, #73C8A9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #373B44, #73C8A9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  }
+  .card10 h2{
+    color: #373B44;
+  }
+  .card11{
+    background: #fffbd5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #b20a2c, #fffbd5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #b20a2c, #fffbd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+  }
+  .card11 h2{
+    color: #750c21;
+  }
+  .card12{
+    background: #EB5757;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+  }
+  .card12 h2{
+    color:#cc5333 ;
+  }
+  .card13{
+    background: #544a7d;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffd452, #544a7d);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffd452, #544a7d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+ }
+ .card13 h2{
+   color:#544a7d;
+ }
+ .card14{
+  background: #1a2a6c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+ }
+ .card14 h2{
+  color:#1a2a6c;
+ }
+ .card15{
+  background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+
+ }
+ .card15 h2{
+  color: #2fee2f ;
+
+ }
+ .card16{
+  background: #360033;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0b8793, #360033);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0b8793, #360033); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-radius :80px; 
+ }
+ .card16 h2{
+  color:#2d022a;
+ }
+ .card17{
+  background: #5D4157;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A8CABA, #5D4157);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A8CABA, #5D4157); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+ }
+ .card17 h2{
+  color: #5D4157;
+ }
+ .card18{
+  background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+ }
+ .card18 h2{
+  color:#667db6;
+ }
+ .card19{
+  background: #ad5389;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+ }
+ .card19 h2{
+   color:#11011b;
+ }
+ .card20{
+  background: #ff0084;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #33001b, #ff0084);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #33001b, #ff0084); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius :80px; 
+ }
+ .card20 h2{
+  color:#220113;
+ }
